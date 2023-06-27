@@ -1,1 +1,1 @@
-This project is about the generating load-displacement curves as Casimir Course assignment.
+This project focuses on generating load-displacement curves as Casimir Course assignment.
