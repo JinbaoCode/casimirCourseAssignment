@@ -50,7 +50,7 @@ plt.ylim(0)
 plt.legend()
 
 # Save the figure as a high-quality PNG format
-plt.savefig('results.png', dpi=300)
+plt.savefig('LoadDisplacementCurves.png', dpi=300)
 
 # Show the plot
 plt.show()
