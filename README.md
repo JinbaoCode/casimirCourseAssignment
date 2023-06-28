@@ -26,7 +26,7 @@ Our objective is to characterize the tensile properties of a material by analyzi
 ## Project members
 ### Mentor
 Dieter Werthmüller
-### memebers
+### Members
 [@jxie1](https://github.com/JinbaoCode)
 [@yyang](https://github.com/TerenceYanglol)
 [@aghaderiaram](https://github.com/Aliiakbar)
