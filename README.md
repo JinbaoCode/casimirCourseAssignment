@@ -3,10 +3,8 @@
 ## Table of Contents
 
 - [Project Overview](#project-overview)
-- [Project members](#project-members)
 - [Installation](#installation)
-- [File Structure](#file-structure)
-
+- [Project members](#project-members)
 
 ## Project Overview
 
@@ -20,26 +18,14 @@ This project focuses on generating load-displacement curves as Casimir Course as
    git clone git@github.com:JinbaoCode/casimirCourseAssignment.git   
    ```
 2. Environments:
-	- Python version: 
-		- Required packages:
-
+	- Python version 3.3: 
 
 ## Project members
-
-[@jxie1]()
-[@yyang]()
-[@aghaderiaram]()
-[@Pan]()
-[@Natsukashii]()
-
-
-## File Structure
-
-```
-├── casimirCourseAssignment/                   # Directory for all files
-│   ├── Task1/                # Raw data files
-│   ├── Task2/          # Processed or cleaned data files
-│   ├── Task3/          # Processed or cleaned data files
-├── README.md               # Project README file
-└── .gitignore              # Git ignore file
-```
+### Mentor
+Dieter Werthmüller
+### memebers
+[@jxie1](https://github.com/JinbaoCode)
+[@yyang](https://github.com/TerenceYanglol)
+[@aghaderiaram](https://github.com/Aliiakbar)
+[@Pan](https://github.com/Pan-Fang)
+[@Natsukashii](https://github.com/Natsukashiii)
