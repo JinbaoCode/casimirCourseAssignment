@@ -18,7 +18,7 @@ This project focuses on generating load-displacement curves as Casimir Course as
    git clone git@github.com:JinbaoCode/casimirCourseAssignment.git   
    ```
 2. Environments:
-	- Python version 3.3: 
+	- Python 3.3
 
 ## Project members
 ### Mentor
